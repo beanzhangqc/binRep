@@ -9,5 +9,6 @@ Master branch changed
 Creating a new branch with conflict
 
 Master change 01
-
 Master change 02
+Branch feature1 change 01
+
