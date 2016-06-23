@@ -4,4 +4,7 @@ I make change 1 in this file
 I make change 2 in this file
 
 Creating a new branch is quick
+
 Master branch changed
+Creating a new branch with conflict
+
