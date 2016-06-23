@@ -1,2 +1,3 @@
 This is a new document
 In the document I want to show you how to use git
+I make change 1 in this file
